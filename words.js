@@ -109,19 +109,7 @@ let words = [
     hint: "You go at red and stop at green. What am I?",
   },
   {
-    word: "",
-    hint: "",
-  },
-  {
-    word: "aelrniotsiph",
-    hint: "What kind of ship has two mates but no captain?",
-  },
-  {
-    word: "aelrniotsiph",
-    hint: "What kind of ship has two mates but no captain?",
-  },
-  {
-    word: "aelrniotsiph",
-    hint: "What kind of ship has two mates but no captain?",
+    word: "Pillow",
+    hint: " I am higher without a head. What am I?",
   },
 ];
