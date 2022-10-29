@@ -91,4 +91,37 @@ let words = [
     word: "library",
     hint: "Place containing collection of books",
   },
+  {
+    word: "wrong",
+    hint: "What word is always spelled wrong?",
+  },
+  {
+    word: "relationship",
+    hint: "What kind of ship has two mates but no captain?",
+  },
+  {
+    word: "postOffice",
+    hint: "What two words, added together, contain the most letters?",
+  },
+
+  {
+    word: "Watermelon",
+    hint: "You go at red and stop at green. What am I?",
+  },
+  {
+    word: "",
+    hint: "",
+  },
+  {
+    word: "aelrniotsiph",
+    hint: "What kind of ship has two mates but no captain?",
+  },
+  {
+    word: "aelrniotsiph",
+    hint: "What kind of ship has two mates but no captain?",
+  },
+  {
+    word: "aelrniotsiph",
+    hint: "What kind of ship has two mates but no captain?",
+  },
 ];
